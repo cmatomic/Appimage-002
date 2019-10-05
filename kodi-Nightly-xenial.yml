@@ -20,7 +20,7 @@ ingredients:
     - kodi-audiodecoder-openmpt 	
     - kodi-audiodecoder-organya 	
     - kodi-audiodecoder-qsf 	
-    - kodi-audiodecoder-sidplay 	
+    #- kodi-audiodecoder-sidplay 	
     - kodi-audiodecoder-snesapu 	
     - kodi-audiodecoder-ssf 	
     - kodi-audiodecoder-stsound 	
@@ -69,8 +69,8 @@ ingredients:
     - kodi-pvr-dvblink
     - kodi-pvr-dvbviewer
     - kodi-pvr-filmon 	
-    #-  kodi-pvr-freebox 	
-    - kodi-pvr-hdhomerun 	
+    #- kodi-pvr-freebox 	
+    #- kodi-pvr-hdhomerun 	
     - kodi-pvr-hts
     - kodi-pvr-iptvsimple
     - kodi-pvr-mediaportal-tvserver
@@ -84,19 +84,19 @@ ingredients:
     - kodi-pvr-teleboy 	
     - kodi-pvr-vbox 	
     - kodi-pvr-vdr-vnsi 	
-    - kodi-pvr-vuplus 	
-    #-  kodi-pvr-waipu 	
+    #- kodi-pvr-vuplus 	
+    #- kodi-pvr-waipu 	
     - kodi-pvr-wmc 	
     - kodi-pvr-zattoo 	
     - kodi-screensaver-asteroids 	
-    #-  kodi-screensaver-asterwave 	
+    #- kodi-screensaver-asterwave 	
     - kodi-screensaver-biogenesis 	
     - kodi-screensaver-greynetic 	
     - kodi-screensaver-matrixtrails 	
     - kodi-screensaver-pingpong 	
     - kodi-screensaver-pyro 	
     - kodi-screensaver-stars 
-    #-  kodi-screensavers-rsxs 
+    #- kodi-screensavers-rsxs 
     - kodi-vfs-libarchive 	
     - kodi-vfs-nfs 	
     - kodi-vfs-rar 	
@@ -104,10 +104,10 @@ ingredients:
     - kodi-vfs-sftp 	
     - kodi-visualization-goom 	
     - kodi-visualization-projectm 	
-    - kodi-visualization-shadertoy 	
-    - kodi-visualization-spectrum 	
+    #- kodi-visualization-shadertoy 	
+    #- kodi-visualization-spectrum 	
     #-  kodi-visualization-vsxu 	
-    - kodi-visualization-waveform 
+    #- kodi-visualization-waveform 
   dist: xenial
   sources: 
     - deb http://archive.ubuntu.com/ubuntu/ xenial main universe
